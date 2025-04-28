@@ -1,1 +1,6 @@
 target/
+.settings/
+.classpath
+.project
+.mvn/wrapper/*
+!.mvn/wrapper/maven-wrapper.properties
